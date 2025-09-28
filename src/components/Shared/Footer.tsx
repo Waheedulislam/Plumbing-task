@@ -10,7 +10,7 @@ export default function Footer() {
     <footer className="w-full bg-white px-4 sm:px-6 lg:px-20 py-10 border-t">
       <div className="max-w-7xl mx-auto flex flex-col lg:flex-row justify-between gap-8 text-sm text-gray-700">
         <div className="space-y-4">
-          <h2 className="text-4xl md font-bold">Business Logo</h2>
+          <h2 className="lg:text-4xl text-3xl md font-bold">Business Logo</h2>
 
           <div className="flex space-x-5 mt-5">
             <FaFacebook className="h-6 w-6 cursor-pointer text-black hover:text-[#1877F2] transition-colors duration-200" />
